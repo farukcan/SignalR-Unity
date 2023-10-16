@@ -3,7 +3,8 @@
 It's latest net2-standart dll files from nuget.
 
 ## Installation
-* Create Plugins folder to Assets.
+* Download Zip of this repository.
+* Create "Plugins" folder to Assets.
 * Copy this repository folder in it.
 
 ## Usage
